@@ -1,0 +1,52 @@
+/*Selector {
+	Property; value;
+}*/
+*{
+	text-align: right;
+}
+body{
+	background-image: url(https://media.npr.org/assets/img/2011/05/05/hands_wide-8913b8274db632d73952a0a19f781960c21ddae8.jpg);
+	background-size: cover;
+}
+p{
+	color: #AA4139;
+	/*text-align: center;*/
+	border:5px solid rgba(255,176,170,0.5);
+	cursor: pointer;
+}
+p{
+	color: pink;
+}
+img{
+	float: right;
+	font-siz
+}
+footer{
+	clear: both;
+	text-align: center;
+	font-style: b;
+}
+p{
+	line-height: 5px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family:"Times New Roman",Georgia;
+}
+li{
+	list-
+	list-style: none;
+	display: inline-block;
+}
+.webtext: last-child{
+	border: 5px dashed green;
+}
+.active{
+	color: red;
+}
+#div1{
+	background: rgba(0,0,255,0.2);
+}
+#div2{
+	background: rgba(255,0,0,0.2);
+}
